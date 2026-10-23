@@ -1,5 +1,0 @@
-{
-  "/api/download/route": "app/api/download/route.js",
-  "/api/metadata/route": "app/api/metadata/route.js",
-  "/page": "app/page.js"
-}
