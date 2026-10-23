@@ -1,0 +1,3 @@
+{"timestamp":"00:00:03.056","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:09.959","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:22.340","source":"Server","level":"LOG","message":"○ Compiling /api/metadata ..."}
